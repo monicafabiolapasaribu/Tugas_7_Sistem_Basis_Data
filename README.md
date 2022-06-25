@@ -7,7 +7,7 @@ NIM : 312010083
 Kelas : TI.20.D.1
 
 Tugas 7 : Pisahkan per table,Buat halaman home untuk menampilkan jumlah data
-Link Untuk Akses menu http://localhost/sbd01/home.php
+Link Untuk Akses menu http://localhost/klinik_monic/home.php
 ![image](https://user-images.githubusercontent.com/101724604/175774344-5af0f36b-d3fc-4907-b474-360312a55062.png)
 
 - Tabel Pasien.
