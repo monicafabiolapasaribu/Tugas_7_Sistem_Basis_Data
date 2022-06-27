@@ -22,8 +22,9 @@ Link Untuk Akses menu http://localhost/klinik_monic/home.php
 - Tabel Berobat.
 ![image](https://user-images.githubusercontent.com/101724604/175775414-b625e008-1fe6-4f47-8e0b-bbc540dc4f56.png)
 
-- Tabel Resep Obat. 
+- Tabel Resep_Obat. 
 ![image](https://user-images.githubusercontent.com/101724604/175775457-f03adbac-a7f8-40b9-8747-c79a7843327a.png)
 
-- Tabel Pasien. 
-![image](https://user-images.githubusercontent.com/101724604/175775500-d5f4252c-22dc-4d38-87a4-b138c0be924d.png)
+- Tabel users. 
+![image](https://user-images.githubusercontent.com/101724604/175854015-6fdeabfb-258f-4797-b390-ed1b9b6399de.png)
+
